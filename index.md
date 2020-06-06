@@ -17,15 +17,21 @@ Grow a healthy habit to grow a healthy garden!
 People living in modern society have a difficult time maintaining good habits. 
 We developed a program that motivates the user to maintain a healthy habit to cultivate a healthy lifestyle.
 We received our motifs from the study app , Forest. 
-```markdown
+
 
 **1. Building Sprout**
 Our team used Leap Motion and Unity to implement our program. 
 
 **2. Sketch**
 
-![1st Rough Draft](
-Our Rough Draft Sketches for 
+![1st Rough Draft](https://github.com/gracenho829/Sprout/blob/master/1stroughdraft.png)
+
+Our 1st Rough Draft Sketches for Sprout 
+
+![2nd Draft](https://github.com/gracenho829/Sprout/blob/master/KakaoTalk_Photo_2020-06-06-18-48-26.png)
+
+2nd Draft for Sprout 
+
 **3. Source Code File**
 
 Find our Source Code Files [here](https://github.com/gracenho829/Sprout/blob/master/HCI%202-3%20Final%20report_Source%20code.docx)
@@ -41,7 +47,6 @@ View our Demo Video over
  _Italic_ and `Code` text
 
  ![Image](src)
-```
 
 ### Limitations and Future Studies
 
