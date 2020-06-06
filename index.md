@@ -20,6 +20,7 @@ We received our motifs from the study app , Forest.
 
 
 **1. Building Sprout**
+
 Our team used Leap Motion and Unity to implement our program. 
 
 **2. Sketch**
@@ -36,10 +37,6 @@ Our team used Leap Motion and Unity to implement our program.
 
 ![Tutorial](https://github.com/gracenho829/Sprout/blob/master/intro.png)
 >Our tutorial begins with this slide.
-
-**4. Source Code File**
-
-Find our Source Code Files [here](https://github.com/gracenho829/Sprout/blob/master/HCI%202-3%20Final%20report_Source%20code.docx)
 
 ![Garden](https://github.com/gracenho829/Sprout/blob/master/garden.png)
 > This is an overview of your garden. 
@@ -65,11 +62,14 @@ Find our Source Code Files [here](https://github.com/gracenho829/Sprout/blob/mas
 ![plant](https://github.com/gracenho829/Sprout/blob/master/plant.png)
 >Your Rose is planted in your garden! Complete your mission every day to grow your garden. 
 
+**4. Source Code File**
+
+Find our Source Code Files [here](https://github.com/gracenho829/Sprout/blob/master/HCI%202-3%20Final%20report_Source%20code.docx)
+
 **5.Demo Video**
 
 View our [Demo Video](https://drive.google.com/file/d/1uxQTkJAahFRxnK7z2ckBsBdYkmXt-AMt/view?usp=sharing)
 
-### User Research 
 ### Limitations and Future Studies
 
 Due to time constraints, we could not implement many functions such as an item shop. 
