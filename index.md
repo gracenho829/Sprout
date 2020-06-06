@@ -8,9 +8,9 @@ Grow a healthy habit to grow a healthy garden!
 
 ### Members
 
-215 임성비
-21800227 노은솔
-218 손지인
+- 21500598 임성빈
+- 21800227 노은솔
+- 21800388 손지인
 
 ```markdown
 Syntax highlighted code block
