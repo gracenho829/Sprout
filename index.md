@@ -1,4 +1,5 @@
 ## Sprout 
+![Sprout Logo](https://github.com/gracenho829/Sprout/blob/master/sprout.png)
 
 Welcome to our project, Sprout ! 
 Our project aims to help users maintain and grow healthy habits. 
@@ -14,13 +15,13 @@ Grow a healthy habit to grow a healthy garden!
 
 ### 1. Introduction 
 People living in modern society have a difficult time maintaining good habits. 
-We developed a program that motivates the user to maintain a healthy habit to cultivate a healthy lifestyle. 
+We developed a program that motivates the user to maintain a healthy habit to cultivate a healthy lifestyle.
+
 ```markdown
-Syntax highlighted code block
 
 **1. Building Sprout**
 Our team used Leap Motion and Unity to implement our program. 
-![Leap Motion Technology](https://www.amazon.com/Leap-Motion-Controller-Packaging-Software/dp/B00HVYBWQO)
+
 **2. Sketch**
 
 **3. Source Code File**
@@ -44,4 +45,4 @@ Due to time constraints, we could not implement many functions such as an item s
 We also had some trouble with having our Leap Motion recognize our hand motions correctly.
 For our future studies, we plan on experimenting with our Leap Motion so that we have different types of interaction to provide more functions and easier navigation. 
 
-### Referenfes 
+### Referenfces 
