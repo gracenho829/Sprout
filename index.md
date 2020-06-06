@@ -13,6 +13,8 @@ Grow a healthy habit to grow a healthy garden!
 - 21800227 노은솔
 - 21800388 손지인
 
+- 21500809 황단열
+
 ### 1. Introduction 
 People living in modern society have a difficult time maintaining good habits. 
 We developed a program that motivates the user to maintain a healthy habit to cultivate a healthy lifestyle.
