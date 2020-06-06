@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Sprout 
 
-You can use the [editor on GitHub](https://github.com/gracenho829/sprout.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to our project, Sprout ! 
+Our project aims to help users maintain and grow healthy habits. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Grow a healthy habit to grow a healthy garden! 
+
 
 ### Markdown
 
