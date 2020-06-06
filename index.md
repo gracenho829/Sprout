@@ -38,12 +38,13 @@ Our team used Leap Motion and Unity to implement our program.
 >This is our starting screen 
 
 ![Tutorial](https://github.com/gracenho829/Sprout/blob/master/intro.png)
+![Tutorial2](https://github.com/gracenho829/Sprout/blob/master/tutorial.png)
 >Our tutorial begins with this slide.
 
 ![Garden](https://github.com/gracenho829/Sprout/blob/master/garden.png)
 > This is an overview of your garden. 
 
-![Seed](https://github.com/gracenho829/Sprout/blob/master/bluebulb.png)
+![Seed](https://github.com/gracenho829/Sprout/blob/master/seed.png)
 > Choose a seed that you wish to plant. 
 
 ![3icons](https://github.com/gracenho829/Sprout/blob/master/3icons.png)
