@@ -12,12 +12,13 @@ Grow a healthy habit to grow a healthy garden!
 - 21500598 임성빈
 - 21800227 노은솔
 - 21800388 손지인
-
 - 21500809 황단열
 
 ### 1. Introduction 
+<Background & Goal> 
 People living in modern society have a difficult time maintaining good habits. 
-We developed a program that motivates the user to maintain a healthy habit to cultivate a healthy lifestyle.
+There are a lot of apps in the markets that offer functions such as scheduling or forming positive habits. However, they do not provide enough motivation for the user.  
+For this reason, we developed a program that motivates the user to maintain a healthy habit to cultivate a healthy lifestyle. We did this by adding elements that provide entertainment such as growing one flower a day. 
 We received our motifs from the study app , Forest. 
 
 
@@ -73,6 +74,15 @@ Find our Source Code Files [here](https://github.com/gracenho829/Sprout/blob/mas
 
 View our [Demo Video](https://drive.google.com/file/d/1uxQTkJAahFRxnK7z2ckBsBdYkmXt-AMt/view?usp=sharing)
 
+### User Research
+For our mid-term evaluation, we generally received positive reviews. 
+However, our team received negative feedback in regards to Error Tolerance, Feedback, and Documentation. 
+The main reasons for the negative response was because we did not provide sufficient information with respect to how the user should act in the case of an error, lack of function for undoing, lack of explanation for how the game works, and etc. 
+To address these feedbacks, we added a warning message and a tutorial explaining the controls and how the app functions.
+We voluntarily received additional feedback on Documentation and earned positive reviews on nearly every category.
+We received further constructive criticism asking us to diversify our design and add additional walkthroughs when other errors occur. 
+
+
 ### Limitations and Future Studies
 
 Due to time constraints, we could not implement many functions such as an item shop. 
@@ -80,8 +90,6 @@ We also had some trouble with having our Leap Motion recognize our hand motions 
 For our future studies, we plan on experimenting with our Leap Motion so that we have different types of interaction to provide more functions and easier navigation. 
 
 ### References 
-- https://www.turbosquid.com/ko/Search/3D-Models/free
-- https://free3d.com/ko/
 - https://assetstore.unity.com/?gclid=CjwKCAjwqdn1BRBREiwAEbZcR90icfCNhmNPQRWAi6stoJbXlsQMGRdE7RZWM-4jjV51m9WDZD4YvRoC7rkQAvD_BwE
 - https://www.youtube.com/watch?v=wKFDvj2ATRg&t=1281s
 - https://www.youtube.com/watch?v=IW2Fhoi1qIU&list=PLLy27HWGLrB0-aePDUVQ8VUGIAFTyTtg1&index=3
