@@ -12,18 +12,24 @@ Grow a healthy habit to grow a healthy garden!
 - 21800227 노은솔
 - 21800388 손지인
 
+### 1. Introduction 
+People living in modern society have a difficult time maintaining good habits. 
+We developed a program that motivates the user to maintain a healthy habit to cultivate a healthy lifestyle. 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**1. Building Sprout**
+Our team used Leap Motion and Unity to implement our program. 
+![Leap Motion Technology](https://www.amazon.com/Leap-Motion-Controller-Packaging-Software/dp/B00HVYBWQO)
+**2. Sketch**
+
+**3. Source Code File**
+
+**4.Demo Video**
 
 - Bulleted
 - List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
@@ -32,10 +38,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Limitations and Future Studies
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gracenho829/sprout.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Due to time constraints, we could not implement many functions such as an item shop. 
+We also had some trouble with having our Leap Motion recognize our hand motions correctly.
+For our future studies, we plan on experimenting with our Leap Motion so that we have different types of interaction to provide more functions and easier navigation. 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Referenfes 
