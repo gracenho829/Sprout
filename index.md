@@ -36,6 +36,7 @@ Our team used Leap Motion and Unity to implement our program.
 
 ![Tutorial](https://github.com/gracenho829/Sprout/blob/master/intro.png)
 >Our tutorial begins with this slide.
+
 **4. Source Code File**
 
 Find our Source Code Files [here](https://github.com/gracenho829/Sprout/blob/master/HCI%202-3%20Final%20report_Source%20code.docx)
@@ -51,6 +52,7 @@ Find our Source Code Files [here](https://github.com/gracenho829/Sprout/blob/mas
 
 ![gauge](https://github.com/gracenho829/Sprout/blob/master/gauge.png)
 > The gauge on the left rises everytime you complete a task/mission. You can slide down on each icon up to 3 times per day. 
+
 ![bluebulb](https://github.com/gracenho829/Sprout/blob/master/bluebulb.png)
 > Slide down on the blue bulb 
 
@@ -67,7 +69,7 @@ Find our Source Code Files [here](https://github.com/gracenho829/Sprout/blob/mas
 
 View our [Demo Video](https://drive.google.com/file/d/1uxQTkJAahFRxnK7z2ckBsBdYkmXt-AMt/view?usp=sharing)
 
-
+### User Research 
 ### Limitations and Future Studies
 
 Due to time constraints, we could not implement many functions such as an item shop. 
@@ -81,3 +83,9 @@ For our future studies, we plan on experimenting with our Leap Motion so that we
 - https://www.youtube.com/watch?v=wKFDvj2ATRg&t=1281s
 - https://www.youtube.com/watch?v=IW2Fhoi1qIU&list=PLLy27HWGLrB0-aePDUVQ8VUGIAFTyTtg1&index=3
 - https://cpp11.tistory.com/13
+- https://www.turbosquid.com/Search/Index.cfm?FuseAction=SEOTokenizeSearchURL&stgURlFragment=3D-Models/garden/obj&page_num=2
+- https://free3d.com/3d-models/tree
+- https://www.turbosquid.com/Search/3D-Models/vane
+- https://free3d.com/3d-models/well
+- https://www.turbosquid.com/Search/3D-Models/free/garden
+- https://uheeworld.tistory.com/35
