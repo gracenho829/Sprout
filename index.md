@@ -6,9 +6,11 @@ Our project aims to help users maintain and grow healthy habits.
 Grow a healthy habit to grow a healthy garden! 
 
 
-### Markdown
+### Members
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+215 임성비
+21800227 노은솔
+218 손지인
 
 ```markdown
 Syntax highlighted code block
